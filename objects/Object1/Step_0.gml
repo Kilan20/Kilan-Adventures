@@ -17,6 +17,7 @@ move_and_collide(hspd, vspd, Object2, 4, 0, 0, moving_speed,
 	
 direct = point_direction(x, y-12, mouse_x, mouse_y)
 	
+direct_gun = point_direction(x,y, mouse_x, mouse_y)
 	
 	
 	
@@ -25,4 +26,7 @@ if (x > mouse_x){
 } else if (x < mouse_x) {
 	image_xscale = 1
 }
+
+
+
 

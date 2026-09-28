@@ -20,13 +20,25 @@ for (i = 0; i < global.items_sire; i++){
 			_xx + i*i_i, _yy)
 			
 			
+			if not (global.items[global.current_item] = item.Blaster){
+				draw_sprite(Sprite_items, global.items[i],
+					x + lengthdir_x(20, direct), 
+					y + lengthdir_y(20, direct))
+				
+			}
 			
-			draw_sprite(Sprite_items, global.items[i],
-				x + lengthdir_x(20, direct), 
-				y + lengthdir_y(20, direct))
+			
+			if (global.items[global.current_item] = item.Blaster){
+				draw_sprite_ext(Sprite10, 0, x, y+10, 1, image_xscale,
+					direct_gun,	c_white, 1)
+			
+			}
 		}
 		
 }
 
 
 draw_sprite(Sprite5, 0, mouse_x, mouse_y)
+
+
+

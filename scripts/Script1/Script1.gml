@@ -1,7 +1,8 @@
 enum item{
 	Nope, 
 	H,
-	C
+	C,
+	Blaster
 }
 
 
@@ -14,6 +15,23 @@ function use_item(_item){
 	}
 	global.items[global.current_item] = item.Nope
 }
+
+
+function blaster(_item){
+	switch(_item) {
+		case item.Blaster:
+		
+		
+		
+		
+		break
+	
+	}
+}
+
+
+
+
 
 
 
