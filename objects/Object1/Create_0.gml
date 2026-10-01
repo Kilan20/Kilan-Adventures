@@ -1,6 +1,7 @@
 moving_speed = 4;
 
 
+reloading = 0
 
 window_set_cursor(Sprite5)
 

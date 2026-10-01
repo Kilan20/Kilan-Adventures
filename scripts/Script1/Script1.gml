@@ -2,7 +2,8 @@ enum item{
 	Nope, 
 	H,
 	C,
-	Blaster
+	Blaster,
+	fishing_rod
 }
 
 
@@ -20,16 +21,27 @@ function use_item(_item){
 function blaster(_item){
 	switch(_item) {
 		case item.Blaster:
-		
-		
-		
-		
+			instance_create_layer(x+2, y+2, "Instances_2",Object_bullet)
+			
+			
+			
 		break
 	
 	}
 }
 
-
+function fishing(_item){
+	switch(_item) {
+		case item.fishing_rod:
+			add_item(item.H)
+			
+			
+			
+			
+		break
+	
+	}
+}
 
 
 

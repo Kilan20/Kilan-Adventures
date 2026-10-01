@@ -1,6 +1,10 @@
 
 
+reloading += 1
 
+if reloading >=10{
+	reloading = 10
+}
 
 
 W = keyboard_check(ord("W"));
