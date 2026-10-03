@@ -14,7 +14,11 @@ if S = true{
 	sprite_index = Spr_Kilan_forward
 } else if W = true{
 	sprite_index = Spr_Kilan_Back
-} else {
+} else if D = true{
+	sprite_index = Spr_Kilan_Right
+}
+
+else {
 	sprite_index = Spr_Kilan
 	}
 }
