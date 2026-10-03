@@ -11,6 +11,8 @@
   "defaultScriptType":0,
   "Folders":[
     {"$GMFolder":"","%Name":"Sprite","folderPath":"folders/Sprite.yy","name":"Sprite","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Sprite_Kilan","folderPath":"folders/Sprite/Sprite_Kilan.yy","name":"Sprite_Kilan","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Object","folderPath":"folders/Object.yy","name":"Object","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
@@ -31,6 +33,9 @@
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"Spr_Kilan_dark","path":"sprites/Spr_Kilan_dark/Spr_Kilan_dark.yy",},},
+    {"id":{"name":"Spr_Kilan_forward","path":"sprites/Spr_Kilan_forward/Spr_Kilan_forward.yy",},},
+    {"id":{"name":"Spr_Kilan_pose_hands_free","path":"sprites/Spr_Kilan_pose_hands_free/Spr_Kilan_pose_hands_free.yy",},},
+    {"id":{"name":"Spr_Kilan","path":"sprites/Spr_Kilan/Spr_Kilan.yy",},},
     {"id":{"name":"Sprite_bullet","path":"sprites/Sprite_bullet/Sprite_bullet.yy",},},
     {"id":{"name":"Sprite_items_1","path":"sprites/Sprite_items_1/Sprite_items_1.yy",},},
     {"id":{"name":"Sprite_items_2","path":"sprites/Sprite_items_2/Sprite_items_2.yy",},},
