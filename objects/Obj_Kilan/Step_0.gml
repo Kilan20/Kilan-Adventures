@@ -6,7 +6,7 @@ D = keyboard_check(ord("D"));
 hspd = (D-A) * speed_Kilan;
 vspd = (S-W) * speed_Kilan;
 
-move_and_collide(hspd, vspd, Object2, 4, 0, 0, speed_Kilan, 
+move_and_collide(hspd, vspd, Obj_wall, 4, 0, 0, speed_Kilan, 
 	speed_Kilan)
 	
 { //Спрайт обычной ходьбы.

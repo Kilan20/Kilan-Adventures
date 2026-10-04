@@ -22,5 +22,3 @@ for (i = 0; i < global.items_sire; i++){
 		
 }
 
-
-draw_sprite(Spr_cursor, 0, mouse_x, mouse_y)

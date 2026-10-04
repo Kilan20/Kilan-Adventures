@@ -14,7 +14,9 @@ for (i = 0; i < global.items_sire; i++){
 	global.items[i] = item.Nope
 }
 
-window_set_cursor(Spr_cursor)
+
+cursor_sprite = Spr_cursor
+
 
 
 spr_intentory_cell = Spr_infentory_cell //Ячейка инвенторя.
