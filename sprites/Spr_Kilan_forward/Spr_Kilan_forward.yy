@@ -26,8 +26,8 @@
   "nineSlice":null,
   "origin":9,
   "parent":{
-    "name":"Sprite_Kilan",
-    "path":"folders/Sprite/Sprite_Kilan.yy",
+    "name":"Sprite_Kilan_Animator",
+    "path":"folders/Sprite/Sprite_Kilan/Sprite_Kilan_Animator.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
