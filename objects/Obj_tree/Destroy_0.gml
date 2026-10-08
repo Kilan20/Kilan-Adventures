@@ -1,5 +1,3 @@
-instance_create_depth(x, y+40, depth, Obj_wood)
+instance_create_depth(x+40, y+60, depth+200, Obj_wood)
 
-while true{
-	
-}
+
