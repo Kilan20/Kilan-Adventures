@@ -1,6 +1,6 @@
 speed_Kilan = 4;
 
-i_i = 9
+i_i = 10
 
 
 global.items = [];

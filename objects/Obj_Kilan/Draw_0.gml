@@ -15,10 +15,10 @@ for (i = 0; i < global.items_sire; i++){
 	draw_sprite(Sprite_items, global.items[i],
 		_xx + i*i_i, _yy)
 		
-		//if (i = global.current_item){
-		//	draw_sprite(Sprite_items_2, 0,
-		//	_xx + i*i_i, _yy)
-		//}
+		if (i = global.current_item){
+			draw_sprite(Spr_infentory_cell_2, 0,
+			_xx + i*i_i, _yy)
+		}
 		
 }
 
