@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_items",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Obj_wood",
+  "eventList":[],
   "managed":true,
-  "name":"Obj_items",
+  "name":"Obj_wood",
   "overriddenProperties":[],
   "parent":{
     "name":"Object",
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_ITEM",
-    "path":"sprites/Spr_ITEM/Spr_ITEM.yy",
+    "name":"Spr_wood",
+    "path":"sprites/Spr_wood/Spr_wood.yy",
   },
   "spriteMaskId":null,
   "visible":true,

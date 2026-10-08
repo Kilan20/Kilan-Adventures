@@ -1,11 +1,13 @@
 enum item{
 	Nope,
 	Fisiong_rod,
+	Axe,
 }
 
 enum inventory_item{
 	Nope = item.Nope,
 	Fisiong_rod = item.Fisiong_rod,
+	Axe = item.Axe
 }
 
 
