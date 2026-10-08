@@ -8,8 +8,8 @@
   "name":"Obj_items",
   "overriddenProperties":[],
   "parent":{
-    "name":"Kilan Adventures",
-    "path":"Kilan Adventures.yyp",
+    "name":"Object",
+    "path":"folders/Object.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -29,10 +29,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"Sprite9",
-    "path":"sprites/Sprite9/Sprite9.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

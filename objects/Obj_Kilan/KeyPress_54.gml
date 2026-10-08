@@ -1,0 +1,1 @@
+global.current_item = 5

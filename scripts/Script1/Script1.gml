@@ -1,12 +1,4 @@
-enum item{
-	Nope, 
-	H,
-	C,
-	Blaster,
-	fishing_rod
-}
-
-
+/*
 function use_item(_item){
 	switch(_item) {
 		case item.C:
@@ -42,6 +34,7 @@ function fishing(_item){
 	
 	}
 }
+*/
 
 
 
@@ -66,11 +59,3 @@ function add_item(_item){
 
 
 
-function drop_item(){
-	if (global.items[global.current_item] != item.Nope){
-		inst = instance_create_depth(x, y,depth, Obj_items)
-		inst.image_index = global.items[global.current_item]
-		
-		global.items[global.current_item] = item.Nope
-	}
-}

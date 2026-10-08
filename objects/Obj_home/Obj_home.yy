@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_home",
-    "path":"sprites/Spr_home/Spr_home.yy",
+    "name":"Spr_home_Kilan",
+    "path":"sprites/Spr_home_Kilan/Spr_home_Kilan.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -18,7 +18,7 @@ for (i = 0; i < global.items_sire; i++){
 
 
 
-global.items[4] = item.C
+//global.items[4] = item.C
 
 
 i_i = 64 //На что мы умножаем в инвенторе.

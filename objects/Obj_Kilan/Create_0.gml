@@ -17,6 +17,7 @@ for (i = 0; i < global.items_sire; i++){
 
 cursor_sprite = Spr_cursor
 
-
+global.items[4] = inventory_item.Fisiong_rod
 
 spr_intentory_cell = Spr_infentory_cell //Ячейка инвенторя.
+

@@ -1,2 +1,2 @@
-sprite_index = Sprite_items
+sprite_index = Spr_items
 image_speed = 0

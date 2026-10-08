@@ -1,1 +1,0 @@
-image_index = item.fishing_rod
